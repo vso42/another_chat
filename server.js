@@ -16,7 +16,7 @@ io.on('connection',socket=>{
     socket.emit('message', 'Welcome to ChatOn');  
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT =3000 || process.env.PORT;
 
 
 app.listen (PORT, ()=> console.log('server running on port ${PORT}'));
