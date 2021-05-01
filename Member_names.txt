@@ -1,2 +1,3 @@
 RajKamal 19BCG10030
 Vishrut 19BCG10068
+A chat app made by HTML,CSS,node.JS,socket.io(for sending and receiving messge) and JavaScript
